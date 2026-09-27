@@ -28,7 +28,7 @@ I enjoy transforming raw data into meaningful insights through data cleaning, ex
 
 ### 📫 Connect with Me
 
-* LinkedIn: Add your LinkedIn profile link here
+* LinkedIn: (https://www.linkedin.com/in/reshmi-shaik-2a71001a1)
 * GitHub: [@reshmishaik](https://github.com/reshmishaik)
 
 ---
